@@ -373,6 +373,7 @@ var Controller=(function (x,y){
        //1. Read Some input from the filled
         input=y.getinput();
         //2. Add item to the budget controller
+        if (input.description !== "" && !isNaN(input.value) && input.value > 0){
         additems=x.addItems(input.type,input.description,input.value);
         
         //3. Add the item to the UI
@@ -387,7 +388,7 @@ var Controller=(function (x,y){
         //6.Update the percentages of each 
         updatePercantages();
         
-        
+        }
     };
     
     var ctrlDeleteItem=function(event){
