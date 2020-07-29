@@ -25,3 +25,4 @@ At the end of each column on hovering on it, it shows a delete icon which on cli
 ![del](https://user-images.githubusercontent.com/62583335/88817738-82c1bf80-d1db-11ea-955c-02e3b546d9da.JPG)
 
 Finally now you can maintain your budget in a better way with this cool UI and UX.
+![final](https://user-images.githubusercontent.com/62583335/88819697-f5cc3580-d1dd-11ea-8521-41363df864c4.JPG)
