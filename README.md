@@ -23,3 +23,5 @@ You can see at the end of the expense a percentage that is the percentage of inc
 At the end of each column on hovering on it, it shows a delete icon which on click deletes the item from the list as well as updates the total budget. 
 
 ![del](https://user-images.githubusercontent.com/62583335/88817738-82c1bf80-d1db-11ea-955c-02e3b546d9da.JPG)
+
+Finally now you can maintain your budget in a better way with this cool UI and UX.
