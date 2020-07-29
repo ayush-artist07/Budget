@@ -12,4 +12,14 @@ You can see it below
 On clicking enter key or the icon at the right most side with a tick that particular data goes into a specified income/expense column.
 
 Here in exapmple below we have added into income(+)--
+![adding to income](https://user-images.githubusercontent.com/62583335/88817714-7b021b00-d1db-11ea-92a6-fb588666d5f2.JPG)
 
+And below is example on adding to expense (-)---
+![exp add](https://user-images.githubusercontent.com/62583335/88817723-7e95a200-d1db-11ea-986a-4dfbb0b54bfc.JPG)
+
+You can see at the end of the expense a percentage that is the percentage of income that has been expensed.
+
+
+At the end of each column on hovering on it, it shows a delete icon which on click deletes the item from the list as well as updates the total budget. 
+
+![del](https://user-images.githubusercontent.com/62583335/88817738-82c1bf80-d1db-11ea-955c-02e3b546d9da.JPG)
